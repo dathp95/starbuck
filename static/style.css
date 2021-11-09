@@ -42,6 +42,9 @@ header ul li a {
 	font-weight: bold;
 	color: rgb(51, 51, 51);
 }
+header	ul li a:hover {
+	color:  rgb(1, 113, 67);
+}
 
 .content {
 	position: relative;
@@ -84,6 +87,9 @@ header ul li a {
 	margin-top: 20px;
 	font-weight: 600;
 	letter-spacing: 1px;
+}
+.content .textBox a:hover {
+	background-color: rgb(16, 148, 80);
 }
 
 .content .imgBox {
